@@ -1,3 +1,9 @@
+/* you can use this file to add CSS rules to all the routes in your application
+- such as CSS reset rules, site-wide styles for HTML elements like links, and more
+
+It's good practice to add it to your top-level component (root layout), though you 
+can add it to any component as well
+*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
